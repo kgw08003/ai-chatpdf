@@ -81,4 +81,4 @@ if uploaded_file is not None:
 
 # streamlit run main.py 실행 방법
 # openapi key를 카드 등록후 받아서 사용해야함
-
+# .env 파일 만든후 OPENAI_API_KEY=본인 openapi key 입력
