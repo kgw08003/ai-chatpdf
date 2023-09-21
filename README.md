@@ -7,6 +7,7 @@
 
 ### 예시
 
+![ㅁㄴㅇㄻㄴㅇㄹ](https://github.com/kgw08003/ai-chatpdf/assets/109195054/b5f7fab1-610e-4558-baac-f88a3420f84d)
 
 ### 기술 스택
 ![기술스택](https://github.com/kgw08003/ai-poet/assets/109195054/9d7ba0a7-ac6b-4ae1-bd17-fe4caabf9839)
