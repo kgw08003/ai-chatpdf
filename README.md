@@ -17,7 +17,6 @@
 ### 환경 세팅
 - OpenAI 이용
 - LangChain
-- Playground 이용 ChatGPT 역할 부여
 
 
 
