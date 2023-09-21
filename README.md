@@ -21,6 +21,10 @@
 ### LLaMA 2 경량화 버전 이용
 
 ![LLAma2](https://github.com/kgw08003/ai-poet-llama/assets/109195054/dc4b7831-1408-4396-bd19-e769624a62e7)
+
+### 전체 구조
+![전체구조](https://github.com/kgw08003/ai-chatpdf/assets/109195054/186c3e25-04c7-446b-b7d3-dae900f88509)
+
   
 ### 수익화 설정
  - Streamlit cloud 이용
